@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Buy computer",
+      "isComplete": true
+    },
+    {
+      "id": 2,
+      "name": "Buy phone",
+      "isComplete": true
+    },
+    {
+      "name": "Another Item",
+      "isComplete": true,
+      "id": 4
+    },
+    {
+      "name": "New item",
+      "isComplete": true,
+      "id": 9
+    }
+  ]
+}
